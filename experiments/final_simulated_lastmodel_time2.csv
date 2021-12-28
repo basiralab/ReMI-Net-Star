@@ -1,0 +1,7 @@
+,Cyclic Sigmoid Double RNN,Cyclic Weighted Minmax Double RNN,Cyclic Sigmoid Edge RNN,Cyclic Weighted Minmax Edge RNN
+Fold 1,18.169,18.004,18.379,18.203
+Fold 2,18.469,18.311,18.09,17.754
+Fold 3,19.145,19.08,18.468,18.24
+Fold 4,19.184,18.961,18.04,17.662
+Fold 5,19.2,19.217,18.189,17.851
+Average,18.8334,18.714599999999997,18.2332,17.942
