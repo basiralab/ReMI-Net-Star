@@ -75,10 +75,28 @@ To learn about how ReMI-Net-Star works, check the following YouTube video:
 
 # Related references
 
+```
+@inproceedings{demirbilek2021recurrent,
+  title={Recurrent Multigraph Integrator Network for Predicting the Evolution of Population-Driven Brain Connectivity Templates},
+  author={Demirbilek, Oytun and Rekik, Islem},
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={584--594},
+  year={2021},
+  organization={Springer}
+}
+```
 
 # Citation
-
-
+```
+@article{demirbilek2022predicting,
+  title={Predicting the evolution trajectory of population-driven connectional brain templates using recurrent multigraph neural networks},
+  author={Demirbilek, Oytun and Rekik, Islem and Alzheimer’s Disease Neuroimaging Initiative and others},
+  journal={Medical Image Analysis},
+  pages={102649},
+  year={2022},
+  publisher={Elsevier}
+}
+```
 # ReMI-Net on arXiv
 
 
