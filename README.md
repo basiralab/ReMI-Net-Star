@@ -68,10 +68,11 @@ ReMI-Net output is a list of forecasted CBTs shaped as (#timepoints, #ROIs, #ROI
 # YouTube videos to install and run the code and understand how ReMI-Net works
 
 To install and run ReMI-Net-Star, check the following YouTube video:
+https://www.youtube.com/watch?v=v6RKX86r2Fo&ab_channel=BASIRALab
 
 
 To learn about how ReMI-Net-Star works, check the following YouTube video:
-
+https://www.youtube.com/watch?v=2juy7Qk5WJc&ab_channel=BASIRALab
 
 # Related references
 
