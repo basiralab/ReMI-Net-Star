@@ -98,7 +98,6 @@ https://www.youtube.com/watch?v=2juy7Qk5WJc&ab_channel=BASIRALab
   publisher={Elsevier}
 }
 ```
-# ReMI-Net on arXiv
 
 
 # Acknowledgement
